@@ -1,0 +1,14 @@
+C:\Users\joaoc\Desktop\Projects\TradingEngine\obj\Debug\net8.0\TradingEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\Desktop\Projects\TradingEngine\obj\Debug\net8.0\TradingEngine.AssemblyInfoInputs.cache
+C:\Users\joaoc\Desktop\Projects\TradingEngine\obj\Debug\net8.0\TradingEngine.AssemblyInfo.cs
+C:\Users\joaoc\Desktop\Projects\TradingEngine\obj\Debug\net8.0\TradingEngine.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\Desktop\Projects\TradingEngine\bin\Debug\net8.0\TradingEngine.exe
+C:\Users\joaoc\Desktop\Projects\TradingEngine\bin\Debug\net8.0\TradingEngine.deps.json
+C:\Users\joaoc\Desktop\Projects\TradingEngine\bin\Debug\net8.0\TradingEngine.runtimeconfig.json
+C:\Users\joaoc\Desktop\Projects\TradingEngine\bin\Debug\net8.0\TradingEngine.dll
+C:\Users\joaoc\Desktop\Projects\TradingEngine\bin\Debug\net8.0\TradingEngine.pdb
+C:\Users\joaoc\Desktop\Projects\TradingEngine\obj\Debug\net8.0\TradingEngine.dll
+C:\Users\joaoc\Desktop\Projects\TradingEngine\obj\Debug\net8.0\refint\TradingEngine.dll
+C:\Users\joaoc\Desktop\Projects\TradingEngine\obj\Debug\net8.0\TradingEngine.pdb
+C:\Users\joaoc\Desktop\Projects\TradingEngine\obj\Debug\net8.0\TradingEngine.genruntimeconfig.cache
+C:\Users\joaoc\Desktop\Projects\TradingEngine\obj\Debug\net8.0\ref\TradingEngine.dll
