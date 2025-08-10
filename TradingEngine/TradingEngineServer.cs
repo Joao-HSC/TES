@@ -6,18 +6,19 @@ using System;
 using System.Runtime.InteropServices;
 
 using TradingEngineServer.Core.Configuration;
+using TradingEngineServer.Logging;
 
 namespace TradingEngineServer.Core
 {
     internal sealed class TradingEngineServer : BackgroundService, ITradingEngineServer
     {
-        private readonly ILogger<TradingEngineServer> _logger;
-        private readonly TradingEngineServerConfiguration _tradingEngineServerConfig;
-        public TradingEngineServer(ILogger<TradingEngineServer> logger, 
-            IOptions<TradingEngineServerConfiguration> config)
+        private readonly ITextLogger _logger;
+        private readonly IOptions<TradingEngineServerConfiguration> _tradingEngineServerConfig;
+        public TradingEngineServer(ITextLogger textLogger, 
+            IOptions<TradingEngineServerConfiguration> tradingEngineServerConfig)
         {
-            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
-            _tradingEngineServerConfig = config.Value ?? throw new ArgumentNullException(nameof(config));
+            _logger = textLogger ?? throw new ArgumentNullException(nameof(textLogger));
+            _tradingEngineServerConfig = tradingEngineServerConfig ?? throw new ArgumentNullException(nameof(tradingEngineServerConfig));
         }
 
         public Task Run(CancellationToken token) => ExecuteAsync(token);

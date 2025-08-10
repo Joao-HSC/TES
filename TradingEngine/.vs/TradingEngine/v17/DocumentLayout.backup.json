@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\",
+  "WorkspaceRootPath": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\desktop\\projects\\tradingengine\\tradingengineserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:tradingengineserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\desktop\\projects\\tradingengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\onedrive\\desktop\\projects\\tes\\tradingengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\desktop\\projects\\tradingengine\\tradingengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:tradingengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\onedrive\\desktop\\projects\\tes\\tradingengine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\desktop\\projects\\tradingengine\\tradingengineserverconfigs\\tradingengineserverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:tradingengineserverconfigs\\tradingengineserverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\desktop\\projects\\tradingengine\\tradingengineserverserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:tradingengineserverserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\desktop\\projects\\tradingengine\\tradingengineserverhostbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\onedrive\\desktop\\projects\\tes\\tradingengine\\tradingengineserverhostbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:tradingengineserverhostbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\desktop\\projects\\tradingengine\\itradingengineserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\onedrive\\desktop\\projects\\tes\\tradingengine\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\onedrive\\desktop\\projects\\tes\\tradingengine\\tradingengineserverconfigs\\tradingengineserverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:tradingengineserverconfigs\\tradingengineserverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\onedrive\\desktop\\projects\\tes\\tradingengine\\tradingengineserverserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:tradingengineserverserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\onedrive\\desktop\\projects\\tes\\tradingengine\\tradingengineserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:tradingengineserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\onedrive\\desktop\\projects\\tes\\tradingengine\\itradingengineserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:itradingengineserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\desktop\\projects\\tradingengine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|c:\\users\\joaoc\\onedrive\\desktop\\projects\\tes\\tradingengine\\tradingengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F401FDA1-6FB8-445F-84CD-395D53F0B597}|TradingEngine.csproj|solutionrelative:tradingengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,100 +50,120 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TradingEngineServerHostBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngineServerHostBuilder.cs",
-              "RelativeDocumentMoniker": "TradingEngineServerHostBuilder.cs",
-              "ToolTip": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngineServerHostBuilder.cs",
-              "RelativeToolTip": "TradingEngineServerHostBuilder.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TradingEngineServerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngineServerConfigs\\TradingEngineServerConfiguration.cs",
+              "RelativeDocumentMoniker": "TradingEngineServerConfigs\\TradingEngineServerConfiguration.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngineServerConfigs\\TradingEngineServerConfiguration.cs",
+              "RelativeToolTip": "TradingEngineServerConfigs\\TradingEngineServerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T08:06:14.386Z"
+              "WhenOpened": "2025-07-28T07:05:48.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:40:09.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TradingEngineServerServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngineServerServiceProvider.cs",
+              "RelativeDocumentMoniker": "TradingEngineServerServiceProvider.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngineServerServiceProvider.cs",
+              "RelativeToolTip": "TradingEngineServerServiceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:22:11.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T06:50:57.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradingEngineServerHostBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngineServerHostBuilder.cs",
+              "RelativeDocumentMoniker": "TradingEngineServerHostBuilder.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngineServerHostBuilder.cs",
+              "RelativeToolTip": "TradingEngineServerHostBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:06:14.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T15:47:42.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TradingEngineServer.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngineServer.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngineServer.cs",
               "RelativeDocumentMoniker": "TradingEngineServer.cs",
-              "ToolTip": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngineServer.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngineServer.cs",
               "RelativeToolTip": "TradingEngineServer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA9wB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T06:55:07.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ITradingEngineServer.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\ITradingEngineServer.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\ITradingEngineServer.cs",
               "RelativeDocumentMoniker": "ITradingEngineServer.cs",
-              "ToolTip": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\ITradingEngineServer.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\ITradingEngineServer.cs",
               "RelativeToolTip": "ITradingEngineServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T06:52:28.239Z"
+              "WhenOpened": "2025-07-28T06:52:28.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T06:40:09.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TradingEngineServerConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngineServerConfigs\\TradingEngineServerConfiguration.cs",
-              "RelativeDocumentMoniker": "TradingEngineServerConfigs\\TradingEngineServerConfiguration.cs",
-              "ToolTip": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngineServerConfigs\\TradingEngineServerConfiguration.cs",
-              "RelativeToolTip": "TradingEngineServerConfigs\\TradingEngineServerConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T07:05:48.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "TradingEngine.csproj",
-              "DocumentMoniker": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngine.csproj",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngine.csproj",
               "RelativeDocumentMoniker": "TradingEngine.csproj",
-              "ToolTip": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngine.csproj",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngine.csproj",
               "RelativeToolTip": "TradingEngine.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-28T06:41:20.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TradingEngineServerServiceProvider.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngineServerServiceProvider.cs",
-              "RelativeDocumentMoniker": "TradingEngineServerServiceProvider.cs",
-              "ToolTip": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngineServerServiceProvider.cs",
-              "RelativeToolTip": "TradingEngineServerServiceProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T06:22:11.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-28T06:50:57.315Z"
+              "WhenOpened": "2025-07-28T06:41:20.979Z",
+              "EditorCaption": ""
             }
           ]
         }

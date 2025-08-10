@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A5OvxO+4CBI=",
+  "dgSpecHash": "rFFQQiVPVos=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngine.csproj",
+  "projectFilePath": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoc\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.7\\microsoft.extensions.configuration.9.0.7.nupkg.sha512",
     "C:\\Users\\joaoc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.7\\microsoft.extensions.configuration.abstractions.9.0.7.nupkg.sha512",

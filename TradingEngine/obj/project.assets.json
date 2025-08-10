@@ -689,6 +689,16 @@
         "build": {
           "buildTransitive/net8.0/System.Text.Json.targets": {}
         }
+      },
+      "TradingEngineServer.Logging/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TradingEngineServer.Logging.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradingEngineServer.Logging.dll": {}
+        }
       }
     }
   },
@@ -1802,13 +1812,19 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "TradingEngineServer.Logging/1.0.0": {
+      "type": "project",
+      "path": "../LoggingCS/LoggingCS/LoggingCS.csproj",
+      "msbuildProject": "../LoggingCS/LoggingCS/LoggingCS.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.Extensions.Hosting >= 9.0.7",
       "Microsoft.Extensions.Hosting.Abstractions >= 9.0.7",
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.22.1"
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.22.1",
+      "TradingEngineServer.Logging >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1818,11 +1834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngine.csproj",
+      "projectUniqueName": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngine.csproj",
       "projectName": "TradingEngineServer.Core",
-      "projectPath": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\TradingEngine.csproj",
+      "projectPath": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\TradingEngine.csproj",
       "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoc\\Desktop\\Projects\\TradingEngine\\obj\\",
+      "outputPath": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\TradingEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1842,7 +1858,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\LoggingCS\\LoggingCS\\LoggingCS.csproj": {
+              "projectPath": "C:\\Users\\joaoc\\OneDrive\\Desktop\\Projects\\TES\\LoggingCS\\LoggingCS\\LoggingCS.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1890,7 +1910,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
